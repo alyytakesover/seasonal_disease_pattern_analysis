@@ -49,10 +49,10 @@ Certain vector-borne illnesses tend to spike when monsoon season hits.
 
 
 
-👩‍💻 Author-
+ Author-
 
 Alisha Khan
 B.Sc. in Data Science | Expected Nov 2025
 
 
- “Data reveals the unseen rhythm of disease and season.” 🌱
+
